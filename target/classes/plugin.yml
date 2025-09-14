@@ -1,0 +1,11 @@
+name: ResourcesTracker
+version: '1.0.0'
+main: me.nouridin.resourcesTracker.ResourcesTracker
+api-version: '1.21'
+load: STARTUP
+authors: [ Nouridin ]
+website: https://modrinth.com/project/resources-tracker
+commands:
+  rstats:
+    description: Displays resource statistics for a player.
+    usage: /rstats <player>

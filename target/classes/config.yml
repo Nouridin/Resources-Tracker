@@ -1,0 +1,14 @@
+# A list of materials that will trigger a notification when a player picks them up or breaks them.
+# Use material names from https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+notify-on:
+  - DIAMOND_ORE
+  - DIAMOND_BLOCK
+  - ANCIENT_DEBRIS
+  - NETHERITE_BLOCK
+
+# Whether only OPs can use the /rstats command.
+# If set to false, anyone can use the command.
+Only-OP: true
+
+# Whether to check for new updates on startup.
+check-for-updates: true
