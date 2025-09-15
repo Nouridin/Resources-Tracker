@@ -1,6 +1,10 @@
 # ResourcesTracker
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+<p align="center">
+  <a href="https://github.com/Nouridin/Resources-Tracker/releases"><img src="https://img.shields.io/github/v/release/Nouridin/Resources-Tracker?style=for-the-badge" alt="Version"></a>
+  <a href="https://modrinth.com/plugin/resources-tracker"><img src="https://img.shields.io/modrinth/dt/resources-tracker?color=00AF5C&label=Downloads&style=for-the-badge" alt="Modrinth"></a>
+  <a href="https://discord.gg/s2pevNCbv4"><img src="https://img.shields.io/discord/1403066205228503150?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
+</p>
 
 **The ultimate tool for server admins who want to maintain a fair and transparent gameplay environment.**
 
@@ -84,6 +88,12 @@ check-for-updates: true
 ## 🤝 Contributing
 
 Contributions are welcome! If you have a feature request, bug report, or pull request, please feel free to open an issue or submit a PR.
+
+## 🔗 Links
+
+*   **[Modrinth](https://modrinth.com/plugin/resources-tracker)** - Download the latest version of the plugin.
+*   **[Discord](https://discord.gg/s2pevNCbv4)** - Join our community for support and discussion.
+*   **[GitHub](https://github.com/Nouridin/Resources-Tracker)** - View the source code and contribute.
 
 ## 📄 License
 
