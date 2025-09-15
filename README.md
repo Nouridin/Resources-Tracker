@@ -93,4 +93,4 @@ Contributions are welcome! If you have a feature request, bug report, or pull re
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). *(You can add a LICENSE file with your chosen license)*
+This project is licensed under the [MIT License](LICENSE).
