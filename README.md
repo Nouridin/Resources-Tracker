@@ -1,10 +1,6 @@
 # ResourcesTracker
 
-<p align="center">
-  <a href="https://github.com/Nouridin/Resources-Tracker/releases"><img src="https://img.shields.io/github/v/release/Nouridin/Resources-Tracker?style=for-the-badge" alt="Version"></a>
-  <a href="https://modrinth.com/plugin/resources-tracker"><img src="https://img.shields.io/modrinth/dt/resources-tracker?color=00AF5C&label=Downloads&style=for-the-badge" alt="Modrinth"></a>
-  <a href="https://discord.gg/s2pevNCbv4"><img src="https://img.shields.io/discord/1403066205228503150?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
-</p>
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Nouridin/Resources-Tracker/actions) [![Version](https://img.shields.io/github/v/release/Nouridin/Resources-Tracker)](https://github.com/Nouridin/Resources-Tracker/releases) [![Discord](https://img.shields.io/discord/1403066205228503150?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/s2pevNCbv4) [![Modrinth](https://img.shields.io/modrinth/dt/resources-tracker?color=00AF5C&label=Modrinth&logo=modrinth)](https://modrinth.com/plugin/resources-tracker)
 
 **The ultimate tool for server admins who want to maintain a fair and transparent gameplay environment.**
 
